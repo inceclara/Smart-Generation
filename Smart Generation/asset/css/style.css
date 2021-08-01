@@ -1,0 +1,45 @@
+/* Jenis Font */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+/* Navbar */
+.nav1{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+.donasi{
+    background-color: #039be5;
+    border-radius: 26px;
+}
+
+/* footer */
+.fot1{
+    background-color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.smartgeneration{
+    padding-left: 20px;
+    text-align: justify;
+}
+
+.pengertian1{
+    text-align: justify;
+    padding-right: 70px;
+}
+#logofooter{
+    width: 150px;
+    height: 100px;
+}
+#logoSponsor{
+    width: 60px;
+    height: 60px;
+    padding-top: 0%;
+}
+#logoSponsor1{
+    width: 100px;
+    height: 140px;
+}
+.footer1{
+    text-align: end;
+}

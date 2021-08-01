@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+ /* Section 1 */
+ .jumboGaleri1{
+    margin-top: 100px;
+    width: 100%;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #d8f1fd;
+}
+.jumboGaleri1 p{
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+}
+
+/* Section 2 */
+.jumboGaleri2{
+    font-family: 'Quicksand', sans-serif;
+    background-color: #d8f1fd;
+    width: 100%;
+    padding-bottom: 300px;
+}
+.carFoto1{
+    margin-top: 30px;
+    width: 100%;
+}
